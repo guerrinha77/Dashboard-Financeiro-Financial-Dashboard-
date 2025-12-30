@@ -1,4 +1,4 @@
-# Dashboard Financeiro (Financial-Dashboard)
+# Dashboard Financeiro (Financial Dashboard)
 
 Dashboard Financeiro feito pelo Power BI com diversas planilhas de dados, fazendo a depuração do dados e criando os relacionamentos entre as planilhas, culminando em um dashboard interativo.
 
